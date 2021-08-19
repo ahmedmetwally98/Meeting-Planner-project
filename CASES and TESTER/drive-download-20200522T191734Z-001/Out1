@@ -1,0 +1,22 @@
+Conflict 5 10
+"Physics Lecture 1" 5 9
+"Math Section" 5 10
+"Club_meeting" 5 11
+"Movies" 100 20
+"Math Section"
+Empty 7 13
+Empty 10 10
+"Physics Lecture 1" 5 9
+"Math Section" 5 10
+"Club_meeting" 5 11
+"Movies" 100 20
+Invalid day
+"Physics Lecture 1" 5 9
+"Math Section" 5 10
+"Club_meeting" 5 11
+Invalid hour
+Invalid command
+"Physics Lecture 1" 5 9
+"Math Section" 5 10
+"Club_meeting" 5 11
+"Lunch" 10 4

@@ -1,0 +1,23 @@
+ADD " AHMED " 20 16
+ADD "ATEF 20 16
+ADD "SALAH" 366 24 47
+ADD IG 366 -1
+ADD "IG" 0 7890
+ADD 
+
+ADD " ATEEEEEEEEEEF     &     	FATTTTTTTTTEN  "    	24 5
+add hero 56 4
+ADD "HELLO "Boys""  2 3
+ADD   HOW"ARE"YOU 45 56
+#hi how are u
+ADD Physics lecture 12 30
+ADD Physics Lecture 1
+ADD "EECE"LEC"1 100 20
+DEL 20 16
+Print
+DEL 24 5
+DEL 2 3
+Print
+ADD " Works xD" 2 5
+ADD " Perfect	"	2	6
+Print

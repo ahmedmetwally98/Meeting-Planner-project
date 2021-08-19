@@ -1,0 +1,22 @@
+Print
+ADD "del_title" 1 10
+DEL 1 10
+Print
+ADD "del_title" 1 10
+ADD "del_title" 2 10
+DEL 1 10
+DEL 2 10
+Print
+ADD "del_title" 1 10
+ADD "del_title" 2 10
+ADD "del_title" 3 10
+DEL 1 10
+DEL 2 10
+DEL 3 10
+Print
+DEL 1 10
+DEL 2 10
+DEL 3 10
+Find 1 10
+Find 2 10
+MOD "title" 4 10

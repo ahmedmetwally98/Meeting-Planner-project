@@ -1,0 +1,41 @@
+ADD "Lecture 1 physics" 50 25
+ADD Lectrure physics 1
+MOD Lecture 4 
+MOD Lecture 4 50 
+MOD Lecture 4 50 20 
+MOD 20 20 20
+ADD Lecture 4 
+ADD Lecture 4 50 
+ADD Lecture 4 50 20 
+ADD 20 20 20
+ADD "ELC302" 15 15
+ADD "ELC404B" 12 12
+ADD "EPM155" 340 15
+ADD "Physics Lecture 1" 350 15
+ADD "Maths" 20 20
+ADD "HABD" 15 16
+Print
+DEL 20 20
+MOD "Physics lecture 2" 350 15
+Print
+DEL 15 15
+DEL 15 16
+Print
+DEL 12 12
+Print
+Find 350 15
+Find 340 15
+Find 12 240
+ADD "Hi 1" 41 15
+ADD "HI 2" 3 5
+ADD "Hi 3" 41 17
+ADD "Hi 4" 3 4
+ADD "Hi 8" 3 2
+ADD "Hi 4" 4 16
+ADD "Hi 4" 4 20
+ADD "Hi 5" 4 12
+ADD "Hi 6" 41 16
+ADD "Hi 7" 41 18
+Print
+DEL 3 5
+Print

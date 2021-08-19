@@ -1,0 +1,28 @@
+"Breakfast" 10 7
+"Study" 10 8
+"Workout" 10 14
+"Lunch" 10 16
+"Study" 10 17
+"watch @ film" 10 20
+Invalid command
+Invalid hour
+"Breakfast" 10 7
+"Study" 10 8
+"Workout" 10 14
+"Lunch" 10 16
+"Study" 10 17
+"watch @ film" 10 20
+"Breakfast" 10 7
+"Study" 10 8
+"Workout" 10 14
+"Lunch" 10 16
+"Study" 10 17
+"Read a book" 10 20
+"Sleep" 10 21
+"Breakfast" 10 7
+"Study" 10 8
+"Workout" 10 14
+"Lunch" 10 16
+"Study" 10 17
+"Sleep" 10 21
+Invalid title

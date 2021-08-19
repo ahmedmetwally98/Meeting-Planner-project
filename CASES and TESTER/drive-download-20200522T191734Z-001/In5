@@ -1,0 +1,105 @@
+ADD "meeting ahmed" 10 20            	
+ADD "meeting ahmedd" 10 20        
+ADD "Drawing" 5 10
+ADD "movie" 1 23
+ADD "meeting ahmedd" 10 20
+ADD "visit ali" 36 2
+ADD "communication" 55 22
+ADD "Pray" 11 11
+ADD "drink coffee" 7 12
+ADD "studing" 1 20
+ADD "tv" 2 5
+ADD "watching youtube" 6 4
+ADD "facbook" 8 13
+ADD "twitter" 11 2
+ADD "active project " 11 3
+ADD "insta" 20 21
+ADD "Quran" 40 5
+ADD "play coldplay" 60 3
+Print
+DEL 5 10
+Print  
+ADD "Drawing" 5 10
+DEL 1 23
+Print  
+ADD "movie" 1 23
+DEL 1 20
+Print
+ADD "studing" 1 20
+DEL 2 5
+Print
+ADD "tv" 2 5
+DEL 7 12
+Print
+ADD "drink coffee" 7 12
+DEL 6 4
+Print
+ADD "watching youtube" 6 4
+DEL 8 13
+Print
+ADD "facbook" 8 13
+DEL 36 2
+Print
+ADD "visit ali" 36 2
+DEL 11 11
+Print
+ADD "Pray" 11 11
+DEL 11 2
+Print
+ADD "twitter" 11 2
+DEL 11 3
+ADD "active project " 11 3
+DEL 20 21
+Print
+ADD "insta" 20 21
+DEL 55 22
+Print
+ADD "communication" 55 22
+DEL 40 5
+Print
+ADD "Quran" 40 5
+DEL 60 3
+Print
+ADD "play coldplay" 60 3
+DEL 60 3
+DEL 40 5
+DEL 10 20 
+ADD "meetint ahmed" 10 20
+DEL 55 22
+DEL 20 21
+DEL 11 3
+DEL 36 2
+DEL 11 2
+DEL 11 11
+DEL 6 4
+DEL 8 13
+DEL 10 20
+DEL 7 12
+DEL 2 5
+DEL 1 20
+DEL 1 23
+DEL 5 10
+Print
+ADD "EECE """   elec   lec" 10 20
+ADD "EECE 11 20
+ADD music 15 20
+
+
+
+ADD "    delete lectures"    10 5
+ADD "EECE2020" 10 20
+meet     "comm   20 10
+MOD 20     10
+Print   LoL
+ADD ahmed 4810 55
+Print  
+DEL "lecture" 10 20 
+ADD "meeting ahmed " 10 20 30
+Print
+pprint
+ADD "physics lec 1"25 3 
+Find 25 3
+ADD "physics lec 1" 25 3
+Find 25 3
+Print 
+Find

@@ -1,0 +1,16 @@
+ADD "Match" 20 19
+ADD "Date" 20 17
+ADD "Quiz" 30 12
+ADD "friend's Birthday" 52 20
+ADD "Summer vacation" 103 2
+Print
+MOD "computer report deadline" 103 2
+ADD "Summer vacation" 104 1
+Find 4 400
+Name "football" 7 10
+ADD "graduation" 2 0 21
+DELETE 52 20
+Find 52 20
+ADD "cenima" 30 12
+Find 365 23
+Print

@@ -1,0 +1,11 @@
+WrongCommand
+WrongCommand "test" 1 1
+WrongCommand test 1 1
+ADD test 1 1
+ADD test 0 1
+ADD test 600 50
+Print
+Find 1 1
+MOD "MOD" 1 1
+DEL 1 1
+Fix "MOD" 1 1

@@ -1,0 +1,26 @@
+Empty Planner
+Conflict 10 10
+"Computer3" 1 0
+"Dentist" 3 22
+"Physics" 4 2
+"Math" 5 10
+"Sport" 5 20
+"Electronics" 10 10
+"Comm1" 360 23
+Invalid day
+"Computer3" 1 0
+"Dentist" 3 22
+"Physics" 4 2
+"Math" 5 10
+"Sport" 5 20
+"English class" 10 10
+"Communications_1" 360 23
+"Physics"
+"Computer3" 1 0
+"Dentist" 3 22
+"Physics" 4 2
+"Math" 5 10
+"Sport" 5 20
+"Library" 8 20
+"English class" 10 10
+"Communications_1" 360 23
